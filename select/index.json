@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Sense",
+  "base_artist": "*Luna",
+  "createdAt": "2025-12-21T22:40:47.555716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sense",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Sense_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Make No Sense",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/02_Make_No_Sense_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "no sense",
+      "artist": "Baby Keem",
+      "has_synced": true,
+      "path": "select/03_no_sense_Baby_Keem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Sense",
+      "artist": "Blankenberge",
+      "has_synced": false,
+      "path": "select/04_No_Sense_Blankenberge.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sixth Sense",
+      "artist": "עפרה חזה",
+      "has_synced": true,
+      "path": "select/05_Sixth_Sense_עפרה_חזה.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sixth Sense",
+      "artist": "Ofra Haza",
+      "has_synced": true,
+      "path": "select/06_Sixth_Sense_Ofra_Haza.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dollaz & Sense",
+      "artist": "Blakroc feat. Pharoahe Monch & RZA",
+      "has_synced": false,
+      "path": "select/07_Dollaz_&_Sense_Blakroc_feat._Pharoahe_Monch_&_RZA.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dollaz & Sense (Feat. RZA & Pharoah Monch)",
+      "artist": "Blakroc",
+      "has_synced": false,
+      "path": "select/08_Dollaz_&_Sense_(Feat._RZA_&_Pharoah_Monch)_Blakroc.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dollaz & Sense",
+      "artist": "BlakRoc",
+      "has_synced": false,
+      "path": "select/09_Dollaz_&_Sense_BlakRoc.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Sense",
+      "artist": "Cat Power",
+      "has_synced": true,
+      "path": "select/10_No_Sense_Cat_Power.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Perfect Sense",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/11_Perfect_Sense_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The 6th Sense",
+      "artist": "Common",
+      "has_synced": true,
+      "path": "select/12_The_6th_Sense_Common.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sense",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_Sense_Luna_feat._ねんね.txt"
+    }
+  ]
+}
